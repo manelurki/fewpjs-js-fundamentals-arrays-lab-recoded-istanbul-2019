@@ -6,5 +6,5 @@ const removeLast=["Milo", "Otis", "Garfield"];
 
 append.push('Odie');
 prepend.unshift('Odie');
-pet.pop();
-pet.shift();
+removeLast.pop();
+removeFirst.shift();
